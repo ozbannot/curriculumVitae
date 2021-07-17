@@ -13,13 +13,13 @@
 - Ruby
 - PHP
 - Python
-- Golang
 
 ### フレームワーク
 
 - Ruby on Rails
 - Laravel
 - Rumen
+- CakePHP
 - EC-Orange
 - Flask
 - Django
