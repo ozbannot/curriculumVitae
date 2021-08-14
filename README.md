@@ -88,4 +88,5 @@
 ## 課外活動
 
 ### 過去の登壇資料
-* [工事中](Speaker Deckの自分の資料のページとか)
+* [テックブログ執筆](https://www.wantedly.com/id/ozbannot)
+* [TechPlay主催LT登壇](https://techplay.jp/event/800327)
