@@ -13,6 +13,7 @@
 - Ruby
 - PHP
 - Python
+- JavaScript
 
 ### フレームワーク
 
