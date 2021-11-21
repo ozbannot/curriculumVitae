@@ -34,8 +34,7 @@
 ### AWS
 
 - EC2
-- ECS
-- Fargate
+- ECS(Fargate)
 - EFS
 - S3
 - CodeDeploy
