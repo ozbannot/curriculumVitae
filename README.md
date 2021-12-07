@@ -43,6 +43,12 @@
 - CloudWatch
 - CloudLogs
 
+### CI/CD
+
+- Jenkins
+- CircleCI
+- Github Actions
+
 ## 言語
 
 - 日本語
