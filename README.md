@@ -82,6 +82,7 @@
   <br>新規アプリケーションのシステム設計を行なった
   <br>APIのシステム構成としてECS(Fargate)を採用し、CI/CDにはGithubActionsを採用
   - PJT5(2021/12~NOW)
+  <br>@cosme CAREERのオンプレミス→クラウド化
   <br>アプリケーション担当として、デプロイのCI/CDを構築
   <br>EC2を採用し、ビルドにjenkins、デプロイにS3＋CodeDeployを採用しデプロイパイプラインの構築を行なった
   
