@@ -24,6 +24,7 @@
 - EC-Orange
 - Flask
 - Django
+- Bootstrap3
 
 ### RDBMS
 
@@ -99,5 +100,5 @@
 ## 課外活動
 
 ### 過去の登壇資料
-* [テックブログ執筆](https://www.wantedly.com/id/ozbannot)
+* [テックブログ執筆](https://techblog.istyle.co.jp/archives/author/bannot)
 * [TechPlay主催LT登壇](https://techplay.jp/event/800327)
