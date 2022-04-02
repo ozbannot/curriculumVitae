@@ -43,6 +43,8 @@
 - Datapipeline
 - CloudWatch
 - CloudLogs
+- KinesisDataStream
+- Lambda
 
 ### CI/CD
 
