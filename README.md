@@ -31,6 +31,7 @@
 - MySQL
 - MySQL Aurora
 - Microsoft SQL Server
+- DynamoDB
 
 ### AWS
 
