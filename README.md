@@ -46,6 +46,7 @@
 - CloudLogs
 - KinesisDataStream
 - Lambda
+- APIGateway
 
 ### CI/CD
 
