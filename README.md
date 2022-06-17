@@ -5,7 +5,8 @@
 |key|value|
 |---|-----|
 |Name|bannot|
-|github|[@ozbannot](https://github.com/ozbannot)|
+|github(private)|[@ozbannot](https://github.com/ozbannot)|
+|github(work)|[@bannot](https://github.com/bannot)|
 |wantedly|[@ozbannot](https://www.wantedly.com/id/ozbannot)|
 
 ## スキル
