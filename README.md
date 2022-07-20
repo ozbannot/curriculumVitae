@@ -42,7 +42,7 @@
 - S3
 - CodeDeploy
 - CloudFront
-- Datapipeline
+- Codepipeline
 - CloudWatch
 - CloudLogs
 - KinesisDataStream
